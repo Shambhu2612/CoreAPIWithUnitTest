@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Shambhu\\User2\\CoreAPI\\CoreAPIWithUnitTest\\BusinessAccessLayer\\BusinessAccessLayer.csproj",
+      "projectUniqueName": "C:\\Shambhu\\CoreAPI\\CoreAPIWithUnitTest\\BusinessAccessLayer\\BusinessAccessLayer.csproj",
       "projectName": "BusinessAccessLayer",
-      "projectPath": "C:\\Shambhu\\User2\\CoreAPI\\CoreAPIWithUnitTest\\BusinessAccessLayer\\BusinessAccessLayer.csproj",
+      "projectPath": "C:\\Shambhu\\CoreAPI\\CoreAPIWithUnitTest\\BusinessAccessLayer\\BusinessAccessLayer.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Shambhu\\User2\\CoreAPI\\CoreAPIWithUnitTest\\BusinessAccessLayer\\obj\\",
+      "outputPath": "C:\\Shambhu\\CoreAPI\\CoreAPIWithUnitTest\\BusinessAccessLayer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

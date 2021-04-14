@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Shambhu\\User2\\CoreAPI\\CoreAPIWithUnitTest\\CoreAPIWithUnitTest\\CoreAPIWithUnitTest.csproj": {}
+    "C:\\Shambhu\\CoreAPI\\CoreAPIWithUnitTest\\CoreAPIWithUnitTest\\CoreAPIWithUnitTest.csproj": {}
   },
   "projects": {
-    "C:\\Shambhu\\User2\\CoreAPI\\CoreAPIWithUnitTest\\CoreAPIWithUnitTest\\CoreAPIWithUnitTest.csproj": {
+    "C:\\Shambhu\\CoreAPI\\CoreAPIWithUnitTest\\CoreAPIWithUnitTest\\CoreAPIWithUnitTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Shambhu\\User2\\CoreAPI\\CoreAPIWithUnitTest\\CoreAPIWithUnitTest\\CoreAPIWithUnitTest.csproj",
+        "projectUniqueName": "C:\\Shambhu\\CoreAPI\\CoreAPIWithUnitTest\\CoreAPIWithUnitTest\\CoreAPIWithUnitTest.csproj",
         "projectName": "CoreAPIWithUnitTest",
-        "projectPath": "C:\\Shambhu\\User2\\CoreAPI\\CoreAPIWithUnitTest\\CoreAPIWithUnitTest\\CoreAPIWithUnitTest.csproj",
+        "projectPath": "C:\\Shambhu\\CoreAPI\\CoreAPIWithUnitTest\\CoreAPIWithUnitTest\\CoreAPIWithUnitTest.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Shambhu\\User2\\CoreAPI\\CoreAPIWithUnitTest\\CoreAPIWithUnitTest\\obj\\",
+        "outputPath": "C:\\Shambhu\\CoreAPI\\CoreAPIWithUnitTest\\CoreAPIWithUnitTest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

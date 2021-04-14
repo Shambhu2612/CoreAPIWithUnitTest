@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "C7hItVEZcqhagmODV4RYIueqVc+JJNR8QcXXf8TWbURd4AR06TDjV98WVEvu4wzhBlPuYLnBPVD1tuRh9Vyejg==",
+  "dgSpecHash": "Slihx0AvRRcDtROlvVxGIK1XCMWHrc8LMLcMFIp5iDglzhboSV9YI6JQL41JC0gBP8GkHKJECRpzSteQk0RRTA==",
   "success": true,
-  "projectFilePath": "C:\\Shambhu\\User2\\CoreAPI\\CoreAPIWithUnitTest\\Calculator\\Calculator.csproj",
+  "projectFilePath": "C:\\Shambhu\\CoreAPI\\CoreAPIWithUnitTest\\Calculator\\Calculator.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
