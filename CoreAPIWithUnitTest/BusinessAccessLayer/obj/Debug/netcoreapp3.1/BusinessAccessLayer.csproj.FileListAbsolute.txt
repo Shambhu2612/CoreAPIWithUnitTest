@@ -7,3 +7,12 @@ C:\Shambhu\CoreAPI\CoreAPIWithUnitTest\BusinessAccessLayer\obj\Debug\netcoreapp3
 C:\Shambhu\CoreAPI\CoreAPIWithUnitTest\BusinessAccessLayer\obj\Debug\netcoreapp3.1\BusinessAccessLayer.csproj.CoreCompileInputs.cache
 C:\Shambhu\CoreAPI\CoreAPIWithUnitTest\BusinessAccessLayer\obj\Debug\netcoreapp3.1\BusinessAccessLayer.dll
 C:\Shambhu\CoreAPI\CoreAPIWithUnitTest\BusinessAccessLayer\obj\Debug\netcoreapp3.1\BusinessAccessLayer.pdb
+C:\Shambhu\User2\CoreAPI\CoreAPIWithUnitTest\BusinessAccessLayer\bin\Debug\netcoreapp3.1\BusinessAccessLayer.deps.json
+C:\Shambhu\User2\CoreAPI\CoreAPIWithUnitTest\BusinessAccessLayer\bin\Debug\netcoreapp3.1\BusinessAccessLayer.dll
+C:\Shambhu\User2\CoreAPI\CoreAPIWithUnitTest\BusinessAccessLayer\bin\Debug\netcoreapp3.1\BusinessAccessLayer.pdb
+C:\Shambhu\User2\CoreAPI\CoreAPIWithUnitTest\BusinessAccessLayer\obj\Debug\netcoreapp3.1\BusinessAccessLayer.csprojAssemblyReference.cache
+C:\Shambhu\User2\CoreAPI\CoreAPIWithUnitTest\BusinessAccessLayer\obj\Debug\netcoreapp3.1\BusinessAccessLayer.AssemblyInfoInputs.cache
+C:\Shambhu\User2\CoreAPI\CoreAPIWithUnitTest\BusinessAccessLayer\obj\Debug\netcoreapp3.1\BusinessAccessLayer.AssemblyInfo.cs
+C:\Shambhu\User2\CoreAPI\CoreAPIWithUnitTest\BusinessAccessLayer\obj\Debug\netcoreapp3.1\BusinessAccessLayer.csproj.CoreCompileInputs.cache
+C:\Shambhu\User2\CoreAPI\CoreAPIWithUnitTest\BusinessAccessLayer\obj\Debug\netcoreapp3.1\BusinessAccessLayer.dll
+C:\Shambhu\User2\CoreAPI\CoreAPIWithUnitTest\BusinessAccessLayer\obj\Debug\netcoreapp3.1\BusinessAccessLayer.pdb

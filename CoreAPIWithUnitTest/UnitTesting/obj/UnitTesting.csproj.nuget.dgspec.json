@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Shambhu\\CoreAPI\\CoreAPIWithUnitTest\\UnitTesting\\UnitTesting.csproj": {}
+    "C:\\Shambhu\\User2\\CoreAPI\\CoreAPIWithUnitTest\\UnitTesting\\UnitTesting.csproj": {}
   },
   "projects": {
-    "C:\\Shambhu\\CoreAPI\\CoreAPIWithUnitTest\\BusinessAccessLayer\\BusinessAccessLayer.csproj": {
+    "C:\\Shambhu\\User2\\CoreAPI\\CoreAPIWithUnitTest\\BusinessAccessLayer\\BusinessAccessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Shambhu\\CoreAPI\\CoreAPIWithUnitTest\\BusinessAccessLayer\\BusinessAccessLayer.csproj",
+        "projectUniqueName": "C:\\Shambhu\\User2\\CoreAPI\\CoreAPIWithUnitTest\\BusinessAccessLayer\\BusinessAccessLayer.csproj",
         "projectName": "BusinessAccessLayer",
-        "projectPath": "C:\\Shambhu\\CoreAPI\\CoreAPIWithUnitTest\\BusinessAccessLayer\\BusinessAccessLayer.csproj",
+        "projectPath": "C:\\Shambhu\\User2\\CoreAPI\\CoreAPIWithUnitTest\\BusinessAccessLayer\\BusinessAccessLayer.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Shambhu\\CoreAPI\\CoreAPIWithUnitTest\\BusinessAccessLayer\\obj\\",
+        "outputPath": "C:\\Shambhu\\User2\\CoreAPI\\CoreAPIWithUnitTest\\BusinessAccessLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -58,14 +58,14 @@
         }
       }
     },
-    "C:\\Shambhu\\CoreAPI\\CoreAPIWithUnitTest\\UnitTesting\\UnitTesting.csproj": {
+    "C:\\Shambhu\\User2\\CoreAPI\\CoreAPIWithUnitTest\\UnitTesting\\UnitTesting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Shambhu\\CoreAPI\\CoreAPIWithUnitTest\\UnitTesting\\UnitTesting.csproj",
+        "projectUniqueName": "C:\\Shambhu\\User2\\CoreAPI\\CoreAPIWithUnitTest\\UnitTesting\\UnitTesting.csproj",
         "projectName": "UnitTesting",
-        "projectPath": "C:\\Shambhu\\CoreAPI\\CoreAPIWithUnitTest\\UnitTesting\\UnitTesting.csproj",
+        "projectPath": "C:\\Shambhu\\User2\\CoreAPI\\CoreAPIWithUnitTest\\UnitTesting\\UnitTesting.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Shambhu\\CoreAPI\\CoreAPIWithUnitTest\\UnitTesting\\obj\\",
+        "outputPath": "C:\\Shambhu\\User2\\CoreAPI\\CoreAPIWithUnitTest\\UnitTesting\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -82,8 +82,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Shambhu\\CoreAPI\\CoreAPIWithUnitTest\\BusinessAccessLayer\\BusinessAccessLayer.csproj": {
-                "projectPath": "C:\\Shambhu\\CoreAPI\\CoreAPIWithUnitTest\\BusinessAccessLayer\\BusinessAccessLayer.csproj"
+              "C:\\Shambhu\\User2\\CoreAPI\\CoreAPIWithUnitTest\\BusinessAccessLayer\\BusinessAccessLayer.csproj": {
+                "projectPath": "C:\\Shambhu\\User2\\CoreAPI\\CoreAPIWithUnitTest\\BusinessAccessLayer\\BusinessAccessLayer.csproj"
               }
             }
           }

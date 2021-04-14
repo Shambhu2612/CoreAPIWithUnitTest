@@ -11,3 +11,16 @@ C:\Shambhu\CoreAPI\CoreAPIWithUnitTest\Calculator\obj\Debug\netcoreapp3.1\Calcul
 C:\Shambhu\CoreAPI\CoreAPIWithUnitTest\Calculator\obj\Debug\netcoreapp3.1\Calculator.dll
 C:\Shambhu\CoreAPI\CoreAPIWithUnitTest\Calculator\obj\Debug\netcoreapp3.1\Calculator.pdb
 C:\Shambhu\CoreAPI\CoreAPIWithUnitTest\Calculator\obj\Debug\netcoreapp3.1\Calculator.genruntimeconfig.cache
+C:\Shambhu\User2\CoreAPI\CoreAPIWithUnitTest\Calculator\bin\Debug\netcoreapp3.1\Calculator.exe
+C:\Shambhu\User2\CoreAPI\CoreAPIWithUnitTest\Calculator\bin\Debug\netcoreapp3.1\Calculator.deps.json
+C:\Shambhu\User2\CoreAPI\CoreAPIWithUnitTest\Calculator\bin\Debug\netcoreapp3.1\Calculator.runtimeconfig.json
+C:\Shambhu\User2\CoreAPI\CoreAPIWithUnitTest\Calculator\bin\Debug\netcoreapp3.1\Calculator.runtimeconfig.dev.json
+C:\Shambhu\User2\CoreAPI\CoreAPIWithUnitTest\Calculator\bin\Debug\netcoreapp3.1\Calculator.dll
+C:\Shambhu\User2\CoreAPI\CoreAPIWithUnitTest\Calculator\bin\Debug\netcoreapp3.1\Calculator.pdb
+C:\Shambhu\User2\CoreAPI\CoreAPIWithUnitTest\Calculator\obj\Debug\netcoreapp3.1\Calculator.csprojAssemblyReference.cache
+C:\Shambhu\User2\CoreAPI\CoreAPIWithUnitTest\Calculator\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfoInputs.cache
+C:\Shambhu\User2\CoreAPI\CoreAPIWithUnitTest\Calculator\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfo.cs
+C:\Shambhu\User2\CoreAPI\CoreAPIWithUnitTest\Calculator\obj\Debug\netcoreapp3.1\Calculator.csproj.CoreCompileInputs.cache
+C:\Shambhu\User2\CoreAPI\CoreAPIWithUnitTest\Calculator\obj\Debug\netcoreapp3.1\Calculator.dll
+C:\Shambhu\User2\CoreAPI\CoreAPIWithUnitTest\Calculator\obj\Debug\netcoreapp3.1\Calculator.pdb
+C:\Shambhu\User2\CoreAPI\CoreAPIWithUnitTest\Calculator\obj\Debug\netcoreapp3.1\Calculator.genruntimeconfig.cache

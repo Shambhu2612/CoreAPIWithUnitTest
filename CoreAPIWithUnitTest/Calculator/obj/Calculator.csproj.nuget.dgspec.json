@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Shambhu\\CoreAPI\\CoreAPIWithUnitTest\\Calculator\\Calculator.csproj": {}
+    "C:\\Shambhu\\User2\\CoreAPI\\CoreAPIWithUnitTest\\Calculator\\Calculator.csproj": {}
   },
   "projects": {
-    "C:\\Shambhu\\CoreAPI\\CoreAPIWithUnitTest\\Calculator\\Calculator.csproj": {
+    "C:\\Shambhu\\User2\\CoreAPI\\CoreAPIWithUnitTest\\Calculator\\Calculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Shambhu\\CoreAPI\\CoreAPIWithUnitTest\\Calculator\\Calculator.csproj",
+        "projectUniqueName": "C:\\Shambhu\\User2\\CoreAPI\\CoreAPIWithUnitTest\\Calculator\\Calculator.csproj",
         "projectName": "Calculator",
-        "projectPath": "C:\\Shambhu\\CoreAPI\\CoreAPIWithUnitTest\\Calculator\\Calculator.csproj",
+        "projectPath": "C:\\Shambhu\\User2\\CoreAPI\\CoreAPIWithUnitTest\\Calculator\\Calculator.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Shambhu\\CoreAPI\\CoreAPIWithUnitTest\\Calculator\\obj\\",
+        "outputPath": "C:\\Shambhu\\User2\\CoreAPI\\CoreAPIWithUnitTest\\Calculator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
